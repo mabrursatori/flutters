@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">439063702146-i5jaocsgcnu9jatkf5mflim9ne23a8mm.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">439063702146</string>
+    <string name="google_api_key" translatable="false">AIzaSyCppbGvxg-Ol4k3idoRjcV3Ktn8tQ2eVUQ</string>
+    <string name="google_app_id" translatable="false">1:439063702146:android:6f325240f4d0099f35629b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCppbGvxg-Ol4k3idoRjcV3Ktn8tQ2eVUQ</string>
+    <string name="google_storage_bucket" translatable="false">flutter-film-45e48.appspot.com</string>
+    <string name="project_id" translatable="false">flutter-film-45e48</string>
+</resources>
